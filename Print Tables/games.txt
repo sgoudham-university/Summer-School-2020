@@ -1,0 +1,10 @@
+Game,Release Date,Developer,Price, Rating
+DOOM,1993,id Software,£9.99, 4/10
+Worms,1995,Team17,£9.99, 7/10
+System Shock 2,1999,Irrational Games,£12.99, 2/10
+Deus Ex,2000,Ion Storm,£9.99, 6/10
+Assassin's Creed,2007,Ubisoft Montreal,£15.99, 9/10
+Castlevania,1986,Konami,£9.99, 1/10
+The Sims,2000,Maxis,£12.99, 3/10
+God of War,2005,SCE,£19.99, 2/10
+Among Us, 2018, Innersloth, £3.99, 10/10
